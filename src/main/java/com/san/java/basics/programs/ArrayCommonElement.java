@@ -15,5 +15,6 @@ public class ArrayCommonElement {
             }
         }
     }
-
 }
+//Output:
+//10   70

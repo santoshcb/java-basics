@@ -2,7 +2,7 @@ package com.san.java.basics.common;
 
 import java.sql.*;
 
-public class Jdbc {
+public class JdbcConnection {
 
 //    static {
 //        //STEP 1 : Registering The Driver Class

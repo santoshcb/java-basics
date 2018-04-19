@@ -26,3 +26,7 @@ public class BinaryToDecimal {
         System.out.println("100110 ===> " + bd.getDecimalFromBinary(100110));
     }
 }
+//Output:
+//11 ===> 3
+//110 ===> 6
+//100110 ===> 38
